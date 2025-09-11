@@ -1,4 +1,4 @@
-# Automated GitHub Repository Creation with Selenium
+# AutoGithub
 
 This project demonstrates how to automate the creation of a GitHub repository using Selenium. The automation script collects necessary repository details and GitHub login credentials from the user, then automatically creates a new repository on the user's GitHub account.
 
@@ -19,8 +19,8 @@ This project demonstrates how to automate the creation of a GitHub repository us
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/automatorplus68-sketch/AutoGithub.git
+    cd AutoGithub
     ```
 
 2. **Install dependencies:**
@@ -36,7 +36,7 @@ This project demonstrates how to automate the creation of a GitHub repository us
 
 2. **Run the script:**
     ```bash
-    python automate_github_repo.py
+    python AutoGithub.py
     ```
 
 3. **The script will:**
