@@ -14,6 +14,8 @@ This project demonstrates how to automate the creation of a GitHub repository us
 - [Selenium](https://pypi.org/project/selenium/)
 - [WebDriver](https://selenium.dev/documentation/webdriver/getting_started/install_drivers/) (e.g., ChromeDriver for Google Chrome)
 - GitHub account
+## Preview of project
+![Project Preview](Capture1.PNG)
 
 ## Installation
 
